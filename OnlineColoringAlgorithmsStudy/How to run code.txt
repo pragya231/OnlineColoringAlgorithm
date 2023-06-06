@@ -1,0 +1,16 @@
+1) Installation
+    - install python 3.11
+    - install following dependencies using pip
+        - pip install tk
+        - pip install networkx
+        - pip install matplotlib
+        - pip install distinctipy
+    
+2) Run following command:
+    - python final.py
+3) After running python command a new GUI window will open
+    - Enter the value of n, k, and N
+    - Click on Generate graph button
+    - Click on Display Graph button (This will display graph in separate windows) (Only first instance of graphs will be considered here)
+    - Click on Online coloring by FirstFit (This will display Completitive ratio for FirstFit)
+    - Click on Online coloring by CBIP (This will display Completitive ratio for CBIP)
